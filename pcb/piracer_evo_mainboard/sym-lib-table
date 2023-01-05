@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "twyleg-board-connectors")(type "KiCad")(uri "${KIPRJMOD}/libs/twyleg-kicad-library/lib/symbols/twyleg-board-connectors.kicad_sym")(options "")(descr ""))
+)
